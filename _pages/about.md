@@ -26,10 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a PhD graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>. 
+I'm a PhD graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>. The title of my doctoral dissertation is "Research on Enhancing Cognition and Behavior of Large Language Model-based Agents". 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
+
+Research Statement: I believe that intelligence is a natural phenomenon in the universe we live in, and I am curious about this phenomenon, hoping to understand it as much as possible. Therefore, I chose artificial intelligence as my research field, aiming to achieve understanding through creating it.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
