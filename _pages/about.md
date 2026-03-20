@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cse.sysu.edu.cn/'>Sun Yat-sen University</a>. wanwentao93@gmail.com. The best theory comes from practice, and the best practice comes from theory.
+subtitle: State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theory comes from practice, and the best practice comes from theory.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     #<p>555 your office number</p>
     #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
+    #<p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<!--I'm a PhD graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>. 
--->
+I'm a PhD graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>. 
+<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+-->
+
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
