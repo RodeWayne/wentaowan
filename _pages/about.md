@@ -44,6 +44,8 @@ Currently, my research interests focus on the following four directions:
 
 I aim to accumulate extensive practical experience and theoretical intuition during this research process, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
+I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email.
+
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
