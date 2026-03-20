@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    #<p>555 your office number</p>
+    #<p><a href='https://github.com/RodeWayne'>Github</a> </p>
     #<p>123 your address street</p>
     #<p>Shenzhen Guangdong, China</p>
 
