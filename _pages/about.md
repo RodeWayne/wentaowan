@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Sun Yat-sen University</a>. Address. wanwentao93@gmail.com. Motto. Etc.
 
 profile:
   align: right
