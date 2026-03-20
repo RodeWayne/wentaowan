@@ -41,6 +41,7 @@ Currently, my research interests focus on the following four directions:
 4. Learning paradigms with higher efficiency, especially in terms of data generalization efficiency.
    
 (I will elaborate further in my blog posts.)
+
 I aim to accumulate extensive practical experience and theoretical intuition during this research process, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
