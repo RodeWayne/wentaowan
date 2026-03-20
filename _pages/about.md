@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theory comes from practice, and the best practice comes from theory.
+subtitle: "State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theory comes from practice, and the best practice comes from theory."
 
 profile:
   align: right
