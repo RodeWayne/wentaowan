@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: "State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theory comes from practice, and the best practice comes from theory."
+#subtitle: "State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theory comes from practice, and the best practice comes from theory."
+subtitle: "Recent Ph.D. Graduate | On the Job Market"
 
 profile:
   align: right
@@ -27,7 +28,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a Ph.D.(in AI area) graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>.
+<div style="text-align: center; font-style: italic; color: #555; margin: 2rem 0; padding: 0 10%;">
+  "The best theory comes from practice, and the best practice comes from theory."
+  <div style="text-align: right; font-size: 0.9em; margin-top: 10px;">— Inspired by Norbert Wiener</div>
+</div>
+
+<!-- 下面开始写你的正文和 Research Statement... -->
+**Welcome to my homepage!** I'm a Ph.D.(in AI area) graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>.
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
