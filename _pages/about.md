@@ -49,9 +49,9 @@ Through my doctoral research and reflections, I have developed a personal defini
 
 Guided by this philosophy, my current research interests focus on the following three directions (I will further elaborate on these in my blog posts):
 
-1. developing next-generation models and learning paradigms capable of truly understanding and purposefully reshaping the real world, with a focus on world models, physical intelligence, and reasoning/planning;
-2. exploring highly data-efficient (reinforcement) learning paradigms for the era of experiential learning;
-3. establishing authentic continual learning paradigms for long-term agent evolution.
+* **World Models & Physical Intelligence:** Developing next-generation models and learning paradigms capable of truly understanding and purposefully reshaping the real world.
+* **Data-Efficient Learning:** Exploring highly data-efficient (reinforcement) learning paradigms for the era of experiential learning.
+* **Authentic Continual Learning:** Establishing robust continual learning paradigms for the long-term, open-ended evolution of agents.
 
 Ultimately, I aim to accumulate extensive practical experience and theoretical intuition during this journey, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
