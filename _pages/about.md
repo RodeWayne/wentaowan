@@ -34,27 +34,29 @@ latest_posts:
 </div>
 
 <!-- 下面开始写你的正文和 Research Statement... -->
-**Welcome to my homepage!** I'm a Ph.D.(in AI area) graduated（2025.12） from the <a href='https://cse.sysu.edu.cn/'>SCHOOL OF COMPUTER SCIENCE AND ENGINEERING</a>, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a> as a member of <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, advised by Professor <a href='http://www.linliang.net/'>Liang Lin</a> and Professor <a href='https://kezewang.com/index.html'>Keze Wang</a>.
+**Welcome to my homepage!** I recently earned my Ph.D. in Artificial Intelligence (Dec. 2025) from the <a href='https://cse.sysu.edu.cn/'>School of Computer Science and Engineering</a> at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>. I was a member of the <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, fortunately advised by Prof. <a href='http://www.linliang.net/'>Liang Lin</a> and Prof. <a href='https://kezewang.com/index.html'>Keze Wang</a>.
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
 
-**Research Statement**: I believe that intelligence is a natural phenomenon in our universe, and I am curious about this phenomenon, hoping to understand it as much as possible. Therefore, I chose Artificial Intelligence as my research field, aiming to achieve understanding through creating it. I have a broad interest in various phenomena of intelligence. **During Ph.D., my research interests primarily focused on four areas**: visual understanding, LLM-based Agent, rigorous reasoning of LLM, continual learning (please refer to my <a href='https://rodewayne.github.io/wentaowan/cv/'>CV</a> and <a href='https://rodewayne.github.io/wentaowan/projects/'>Projects</a> for details). My doctoral dissertation, titled **"Research on Enhancing Cognition and Behavior of Large Language Model-based Agents"**, developed methods to bolster the general reasoning and knowledge-updating capacities of LLMs—the agent's cognitive core—and addressed efficient tool learning within non-differentiable agent systems for Visual Programming. 
+**Research Statement**: 
+
+I believe that intelligence is a natural phenomenon in our universe. Driven by a deep curiosity about this phenomenon, I chose Artificial Intelligence as my research field, aiming to achieve a fundamental understanding of intelligence through the very act of creating it. I have a broad interest in various phenomena of intelligence. 
+
+During my Ph.D., my research interests primarily focused on **Visual Understanding, LLM-based Agents, Rigorous Reasoning of LLMs, and Continual Learning** (please refer to my <a href='https://rodewayne.github.io/wentaowan/cv/'>CV</a> and <a href='https://rodewayne.github.io/wentaowan/projects/'>Projects</a> for details). My doctoral dissertation, titled **"Research on Enhancing Cognition and Behavior of Large Language Model-based Agents"**, developed methods to bolster the general reasoning and knowledge-updating capacities of LLMs——the cognitive core of agents——and addressed efficient tool learning within non-differentiable agent systems for Visual Programming. 
 
 Through my doctoral research and reflections, I have developed a personal definition of intelligence that differs from the Turing Test: an adaptive computational process for understanding the world or changing it to achieve specific goals.
 
-Currently, my research interests focus on the following **three directions**:
+Guided by this philosophy, my current research interests focus on the following three directions (I will further elaborate on these in my blog posts):
 
 1. developing next-generation models and learning paradigms capable of truly understanding and purposefully reshaping the real world, with a focus on world models, physical intelligence, and reasoning/planning;
 2. exploring highly data-efficient (reinforcement) learning paradigms for the era of experiential learning;
 3. establishing authentic continual learning paradigms for long-term agent evolution.
-   
-(I will further elaborate on the above statements in my blog posts.)
 
-I aim to accumulate extensive practical experience and theoretical intuition during this research process, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
+Ultimately, I aim to accumulate extensive practical experience and theoretical intuition during this journey, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
 <span style="color: #990000; font-weight: bold;">
-I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email (wanwentao93@gmail.com).
+I am currently on the job market and actively seeking research positions dedicated to one or more of the above directions. Any interested collaborators are warmly welcome to contact me via email (wanwentao93@gmail.com).
 </span>
 
 <!--
