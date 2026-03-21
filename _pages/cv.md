@@ -12,6 +12,6 @@ toc:
 ---
 
 <!-- 下面这行代码会在网页中嵌入你的 PDF -->
-<div style="margin-left: -15%; margin-right: -15%;">
+<div style="margin-left: -20%; margin-right: -15%;">
     <iframe src="{{ '/assets/pdf/Wentao_Wan_CV_Public.pdf' | relative_url }}#view=FitH" width="100%" height="1000px" style="border: none;"></iframe>
 </div>
