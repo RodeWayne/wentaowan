@@ -37,7 +37,7 @@ Through my doctoral research and reflections, I have developed a personal defini
 
 Currently, my research interests focus on the following three directions:
 
-1. Next-generation models and learning paradigms that can truly understand and purposefully change the real world (world models, physical intelligence, reasoning and planning are my current primary focus).
+1. Next-generation models and learning paradigms that can truly understand and purposefully change the real physical world (world models, physical intelligence, reasoning and planning are my current primary focus).
 2. Continual learning.
 3. Learning paradigms with higher efficiency, especially in terms of data generalization efficiency.
    
