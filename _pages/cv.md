@@ -1,11 +1,15 @@
 ---
-layout: cv
+#layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Wentao_Wan_CV.pdf # you can also use external links here
+description: My Curriculum Vitae. You can also download the PDF version using the button on the top right.
 toc:
   sidebar: left
 ---
+
+<!-- 下面这行代码会在网页中嵌入你的 PDF -->
+<iframe src="{{ '/assets/pdf/Wentao_Wan_CV.pdf' | relative_url }}" width="100%" height="800px" style="border: none;"></iframe>
