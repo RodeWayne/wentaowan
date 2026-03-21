@@ -35,7 +35,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Through my doctoral research and reflections, I have developed a personal definition of intelligence that differs from the Turing Test: an adaptive computational process for understanding the world or changing it to achieve specific goals.
 
-Currently, my research interests focus on the following three directions:
+Currently, my research interests focus on the following **three directions**:
 
 1. developing next-generation models and learning paradigms capable of truly understanding and purposefully reshaping the real world, with a focus on world models, physical intelligence, and reasoning/planning;
 2. exploring highly data-efficient (reinforcement) learning paradigms for the era of experiential learning;
