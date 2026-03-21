@@ -7,7 +7,7 @@ subtitle: "State: Job Seeker. Email: wanwentao93@gmail.com. Motto: The best theo
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>📍 Shenzhen Guangdong, China</p>
     <p>🏛️ SUN YAT-SEN UNIVERSITY</p>
@@ -46,7 +46,12 @@ Currently, my research interests focus on the following **three directions**:
 
 I aim to accumulate extensive practical experience and theoretical intuition during this research process, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
+<span style="color: #990000; font-weight: bold;">
 I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email.
+</span>
+<!--
+I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email.
+-->
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
