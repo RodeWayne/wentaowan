@@ -33,12 +33,11 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 **Research Statement**: I believe that intelligence is a natural phenomenon in our universe, and I am curious about this phenomenon, hoping to understand it as much as possible. Therefore, I chose artificial intelligence as my research field, aiming to achieve understanding through creating it. I have a broad interest in various phenomena of intelligence. **During Ph.D., my research interests primarily focused on four areas**: visual understanding, LLM-based Agent, rigorous reasoning of LLM, continual learning (please refer to my CV and Projects for details). Through my research and reflections during my Ph.D., I have developed a personal definition of intelligence that differs from the Turing Test: an adaptive computational process for understanding the world or changing it to achieve specific goals.
 
-Currently, my research interests focus on the following four directions:
+Currently, my research interests focus on the following three directions:
 
-1. Models that can truly understand the physical world (world models are my current primary focus).
-2. Models and algorithms capable of taking actions and interacting with the real world to purposefully change it (physical intelligence, reasoning, and planning are my current priorities).
-3. Continual learning.
-4. Learning paradigms with higher efficiency, especially in terms of data generalization efficiency.
+1. Next-generation models and learning paradigms that can truly understand and purposefully change the real world (world models, physical intelligence, reasoning and planning are my current primary focus).
+2. Continual learning.
+3. Learning paradigms with higher efficiency, especially in terms of data generalization efficiency.
    
 (I will further elaborate on the above statements in my blog posts.)
 
