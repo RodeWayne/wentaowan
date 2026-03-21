@@ -45,7 +45,7 @@ I believe that intelligence is a natural phenomenon in our universe. Driven by a
 
 During my Ph.D., my research interests primarily focused on **Visual Understanding, LLM-based Agents, Rigorous Reasoning of LLMs, and Continual Learning** (please refer to my <a href='https://rodewayne.github.io/wentaowan/cv/'>CV</a> and <a href='https://rodewayne.github.io/wentaowan/projects/'>Projects</a> for details). My doctoral dissertation, titled **"Research on Enhancing Cognition and Behavior of Large Language Model-based Agents"**, developed methods to bolster the general reasoning and knowledge-updating capacities of LLMs——the cognitive core of agents——and addressed efficient tool learning within non-differentiable agent systems for Visual Programming. 
 
-Through my doctoral research and reflections, I have developed a personal definition of intelligence that differs from the Turing Test: an adaptive computational process for understanding the world or changing it to achieve specific goals.
+Through my doctoral research and reflections, I have developed a personal definition of intelligence that differs from the Turing Test: ***an adaptive computational process for understanding the world or changing it to achieve specific goals.***
 
 Guided by this philosophy, my current research interests focus on the following three directions (I will further elaborate on these in my blog posts):
 
