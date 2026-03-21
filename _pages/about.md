@@ -47,8 +47,9 @@ Currently, my research interests focus on the following **three directions**:
 I aim to accumulate extensive practical experience and theoretical intuition during this research process, enabling me to achieve a deeper theoretical understanding of intelligence. In turn, I hope to use this theoretical understanding to better guide the practice of building intelligent systems.
 
 <span style="color: #990000; font-weight: bold;">
-I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email.
+I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email (wanwentao93@gmail.com).
 </span>
+
 <!--
 I am currently on the job market and looking for research positions dedicated to one or more of the above directions. Any interested collaborators are welcome to contact me via email.
 -->
