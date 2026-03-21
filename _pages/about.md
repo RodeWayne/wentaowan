@@ -28,9 +28,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="text-align: center; font-style: italic; color: #555; margin: 2rem 0; padding: 0 10%;">
-  "The best theory comes from practice, and the best practice comes from theory."
-  <div style="text-align: right; font-size: 0.9em; margin-top: 10px;">— Inspired by Norbert Wiener</div>
+<div style="text-align: center; font-style: italic; color: #555; margin: 2rem 0; padding: 0 5%;">
+  "The best theory is inspired by practice, <br> and the best practice is inspired by theory."
+  <div style="text-align: right; font-size: 0.9em; margin-top: 10px;">— Donald E. Knuth (1989)</div>
 </div>
 
 <!-- 下面开始写你的正文和 Research Statement... -->
