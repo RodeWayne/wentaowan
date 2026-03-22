@@ -454,7 +454,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-earned-my-ph-d-degree-in-artificial-intelligence-from-sun-yat-sen-university-sysu",
           title: '🎓 I successfully earned my Ph.D. degree in Artificial Intelligence from Sun Yat-sen...',
           description: "",
-          section: "News",},{id: "news-one-paper-on-large-scale-knowledge-updating-for-large-language-models-has-been-accepted-to-iclr-2026-paper-code",
+          section: "News",},{id: "news-one-paper-on-large-scale-knowledge-updating-for-large-language-models-has-been-accepted-to-iclr-26-paper-code",
           title: '🎉 One paper on large-scale knowledge updating for Large Language Models has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
