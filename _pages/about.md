@@ -12,6 +12,7 @@ profile:
   more_info: >
     <p>📍 Shenzhen Guangdong, China</p>
     <p>🏛️ SUN YAT-SEN UNIVERSITY</p>
+    <p>📧 <a href="mailto:wanwentao93@gmail.com">wanwentao93@gmail.com</a></p>
     <p>🎓 <a href="https://scholar.google.com/citations?user=xYGwtHkAAAAJ&hl=zh-CN" target="_blank">GoogleScholar</a></p>
     <p><i class="fab fa-github" style="color: #555;"></i> <a href="https://github.com/RodeWayne" target="_blank">Github</a></p>
 
