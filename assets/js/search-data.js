@@ -451,7 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm",
+          section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-25",
           title: '🎉 One paper about a Multi-Agent framework for VQA has been accepted by...',
           description: "",
           section: "News",},{id: "news-one-paper-on-rigorous-reasoning-of-large-language-models-has-been-accepted-to-aaai-2026",
