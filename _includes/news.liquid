@@ -23,7 +23,8 @@
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
+        {% comment %} {% for item in news limit: news_limit %} {% endcomment %}
+        {% for item in news limit: 50 %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %Y' }}</th>
             <td>
