@@ -454,7 +454,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-role-project-leader-paper-code",
           title: '🎉 One paper about a Multi-Agent framework for VQA has been accepted by...',
           description: "",
-          section: "News",},{id: "news-one-paper-on-rigorous-reasoning-of-large-language-models-has-been-accepted-to-aaai-2026-paper-code",
+          section: "News",},{id: "news-one-paper-on-rigorous-reasoning-of-large-language-models-has-been-accepted-to-aaai-2026-role-equal-contribution-and-project-leader-paper-code",
           title: '🎉 One paper on rigorous reasoning of Large Language Models has been accepted...',
           description: "",
           section: "News",},{id: "news-i-successfully-earned-my-ph-d-degree-in-artificial-intelligence-from-sun-yat-sen-university-sysu",
