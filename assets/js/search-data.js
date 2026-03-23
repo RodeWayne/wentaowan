@@ -440,15 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/wentaowan/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/wentaowan/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-one-paper-on-visual-reasoning-has-been-accepted-by-iccv-2021",
+            },},{id: "news-one-paper-on-visual-reasoning-has-been-accepted-by-iccv-2021",
           title: 'One paper on visual reasoning has been accepted by ICCV 2021.',
           description: "",
           section: "News",},{id: "news-one-paper-on-interpretable-fine-grained-visual-recognition-has-been-accepted-by-prcv-2023",
