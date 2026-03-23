@@ -470,7 +470,7 @@ ninja.data = [{
           title: '🎓 I successfully earned my Ph.D. degree in Artificial Intelligence from Sun Yat-sen...',
           description: "",
           section: "News",},{id: "news-one-paper-on-large-scale-knowledge-updating-for-large-language-models-has-been-accepted-to-iclr-2026",
-          title: '🎉 One paper on large-scale knowledge updating for Large Language Models has been...',
+          title: 'One paper on large-scale knowledge updating for Large Language Models has been accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
