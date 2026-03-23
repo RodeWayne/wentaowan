@@ -460,7 +460,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-focusing-on-knowledge-based-reasoning-of-large-language-models-has-been-accepted-by-aaai-2025",
           title: 'One paper focusing on knowledge-based reasoning of Large Language Models has been accepted...',
           description: "",
-          section: "News",},{id: "news-one-paper-about-abnormal-detection-in-human-body-via-vlm-has-been-accepted-by-cvpr-2025",
+          section: "News",},{id: "news-one-paper-about-abnormal-detection-in-human-body-via-vlm-has-been-accepted-by-cvpr-2025-as-hightlight-paper",
           title: 'One paper about Abnormal Detection in Human-Body via VLM has been accepted by...',
           description: "",
           section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-25",
