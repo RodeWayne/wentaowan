@@ -461,7 +461,7 @@ ninja.data = [{
           title: 'One paper about Abnormal Detection in Human-Body via VLM has been accepted by...',
           description: "",
           section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-25",
-          title: '🎉 One paper about a Multi-Agent framework for VQA has been accepted by...',
+          title: 'One paper about a Multi-Agent framework for VQA has been accepted by IEEE...',
           description: "",
           section: "News",},{id: "news-one-paper-on-rigorous-reasoning-of-large-language-models-has-been-accepted-to-aaai-2026",
           title: '🎉 One paper on rigorous reasoning of Large Language Models has been accepted...',
