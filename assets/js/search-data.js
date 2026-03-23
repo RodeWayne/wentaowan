@@ -455,7 +455,7 @@ ninja.data = [{
           title: 'One paper on visual reasoning has been accepted by ICCV 2021.',
           description: "",
           section: "News",},{id: "news-one-paper-focusing-on-knowledge-based-reasoning-of-large-language-models-has-been-accepted-by-aaai-2025",
-          title: '🎉 One paper focusing on knowledge-based reasoning of Large Language Models has been...',
+          title: 'One paper focusing on knowledge-based reasoning of Large Language Models has been accepted...',
           description: "",
           section: "News",},{id: "news-one-paper-about-abnormal-detection-in-human-body-via-vlm-has-been-accepted-by-cvpr-2025",
           title: '🎉 One paper about Abnormal Detection in Human-Body via VLM has been accepted...',
