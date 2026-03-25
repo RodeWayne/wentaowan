@@ -9,8 +9,8 @@ last_name: Wan
 email: wanwentao93@gmail.com
 #new added
 cv_pdf: Wentao_Wan_CV.pdf
-contact_note: >
-  Feel free to contact me via email for any research collaborations or job opportunities.
+#contact_note: >
+#  Feel free to contact me via email for any research collaborations or job opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
