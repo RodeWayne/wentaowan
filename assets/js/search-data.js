@@ -455,7 +455,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-about-abnormal-detection-in-human-body-via-vlm-has-been-accepted-by-cvpr-2025-as-hightlight-paper",
           title: 'One paper about Abnormal Detection in Human-Body via VLM has been accepted by...',
           description: "",
-          section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-25",
+          section: "News",},{id: "news-one-paper-about-a-multi-agent-framework-for-vqa-has-been-accepted-by-ieee-transactions-on-multimedia-tmm-26",
           title: 'One paper about a Multi-Agent framework for VQA has been accepted by IEEE...',
           description: "",
           section: "News",},{id: "news-one-paper-on-rigorous-reasoning-of-large-language-models-has-been-accepted-to-aaai-2026",
