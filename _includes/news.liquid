@@ -5,7 +5,7 @@
     <!-- 核心分流逻辑：判断当前是在 About 页面还是 News 页面 -->
     {% if include.limit %}
       <!-- 如果是 About 页面，启用 300px 滚动框 -->
-      <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
+      <div class="table-responsive" style="max-height: 300px; overflow-y: auto; margin-bottom: 2rem;">
     {% else %}
       <!-- 如果是独立的 News 页面，不限制高度，自然铺开 -->
       <div class="table-responsive">
