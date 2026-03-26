@@ -537,13 +537,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=xYGwtHkAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.xiaohongshu.com/user/profile/65131ab20000000023024052", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
