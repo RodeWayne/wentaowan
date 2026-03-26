@@ -35,7 +35,7 @@ latest_posts:
 </div>
 
 <!-- 下面开始写你的正文和 Research Statement... -->
-**Welcome to my homepage!** I recently earned my Ph.D. in Artificial Intelligence (Dec. 2025) from the <a href='https://cse.sysu.edu.cn/'>School of Computer Science and Engineering</a> at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>. I was a member of the <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, fortunately advised by Prof. <a href='http://www.linliang.net/'>Liang Lin</a> and Prof. <a href='https://kezewang.com/index.html'>Keze Wang</a>.
+**Welcome to my homepage!** I recently earned my Ph.D. in Artificial Intelligence (Dec. 2025) from the <a href='https://cse.sysu.edu.cn/'>School of Computer Science and Engineering</a> at <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>. I was a member of the <a href='https://www.sysu-hcp.net/'>HCP Lab</a>, fortunately advised by Prof. <a href='http://www.linliang.net/'>Liang Lin</a> and Prof. <a href='https://kezewang.com/index.html'>Keze Wang</a>. The title of my doctoral dissertation is "**Research on Enhancing Cognition and Behavior of Large Language Model-based Agents**".
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
