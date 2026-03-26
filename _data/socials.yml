@@ -56,3 +56,6 @@ scholar_userid: xYGwtHkAAAAJ # your Google Scholar ID
 #   logo: https://github.com/RodeWayne/wentaowan/tree/main/assets/img/profile_img.jpg # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
+title: GitHub
+  url: https://github.com/RodeWayne
+  icon: fab fa-github
