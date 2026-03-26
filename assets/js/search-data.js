@@ -520,7 +520,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/wentaowan/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/wentaowan/assets/pdf/Wentao_Wan_CV_Public.pdf", "_blank");
         },
       },{
         id: 'social-email',
