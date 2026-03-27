@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/Wentao_Wan_CV_Public.pdf # path to your CV PDF file
 email: wanwentao93@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: RodeWayne
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -37,7 +37,6 @@ email: wanwentao93@gmail.com # your email address
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: xYGwtHkAAAAJ # your Google Scholar ID
-github_username: RodeWayne
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -53,15 +52,8 @@ github_username: RodeWayne
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#   logo: https://github.com/RodeWayne/wentaowan/tree/main/assets/img/profile_img.jpg # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
-#title: GitHub
-#  url: https://github.com/RodeWayne
-#  icon: fab fa-github
-# 下面是自定义的小红书链接配置
 xiaohongshu: 
   icon: fas fa-book-open
   title: xiaohongshu
   url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
+  
