@@ -62,6 +62,6 @@ github_username: RodeWayne
 #  icon: fab fa-github
 # 下面是自定义的小红书链接配置
 xiaohongshu: 
-  logo: /assets/img/profile_img.jpg
+  icon: fas fa-book-open
   title: xiaohongshu
   url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
