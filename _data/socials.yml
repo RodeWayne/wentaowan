@@ -37,6 +37,7 @@ email: wanwentao93@gmail.com # your email address
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: xYGwtHkAAAAJ # your Google Scholar ID
+github_username: RodeWayne
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -56,6 +57,11 @@ scholar_userid: xYGwtHkAAAAJ # your Google Scholar ID
 #   logo: https://github.com/RodeWayne/wentaowan/tree/main/assets/img/profile_img.jpg # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
-title: GitHub
-  url: https://github.com/RodeWayne
-  icon: fab fa-github
+#title: GitHub
+#  url: https://github.com/RodeWayne
+#  icon: fab fa-github
+# 下面是自定义的小红书链接配置
+xiaohongshu: 
+  logo: /assets/img/profile_img.jpg
+  title: xiaohongshu
+  url: https://www.xiaohongshu.com/user/profile/65131ab20000000023024052
