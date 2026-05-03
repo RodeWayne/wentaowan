@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/wentaowan/_pages/dropdown/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-我的第一篇技术博客",
+        
+          title: "我的第一篇技术博客",
+        
+        description: "这里写一句话简介",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/wentaowan/blog/2026/JEPA-analysis/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
